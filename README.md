@@ -1,4 +1,4 @@
-# Hi there, I'm Kaustav Chamola 👋
+# Hi there, I'm Kaustav 
 
 ### Full-Stack Web Architect | AI-Native Product Builder | Co-Founder @ ArcFlow
 
