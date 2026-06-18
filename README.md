@@ -25,8 +25,8 @@ I specialize in bridging high-end cinematic UI/UX with robust, secure serverless
 
 * **[SkillMaarg](https://www.skillmaarg.com/):** Engineered a high-conversion EdTech portal utilizing Next.js Server Actions, AI-optimized JSON-LD semantic architecture, and Upstash Redis rate-limiting.
 * **[OranGenz E-commerce](https://orangenz.vercel.app/):** Built a custom 3D-printed decor storefront featuring Three.js WebGL cinematic rendering and atomic database transactions via Supabase RPCs.
-* **[NickArt Workshop Landing Page](https://nick-art-productions.vercel.app):** Engineered a high-performance cinematic React SPA featuring WebGL background effects, Framer Motion scroll-syncing, and direct WhatsApp API integration for lead capture.
-* **[NickArt E-Book Vault](https://nickart-production.vercel.app):** Deployed a secure React portal utilizing Supabase passwordless OTP authentication, Razorpay API integrations, and Deno Edge Functions for DRM-  protected digital delivery.
+* **[NickArt Production Workshop](https://nick-art-productions.vercel.app):** Engineered a high-performance cinematic React SPA featuring WebGL background effects, Framer Motion scroll-syncing, and direct WhatsApp API integration for lead capture.
+* **[NickArt Production E-Book Vault](https://nickart-production.vercel.app):** Deployed a secure React portal utilizing Supabase passwordless OTP authentication, Razorpay API integrations, and Deno Edge Functions for DRM-  protected digital delivery.
 
 ---
 
